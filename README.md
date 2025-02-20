@@ -15,10 +15,13 @@ I enjoy building and exploring new solutions in **software development**. My ult
 - C++
 - JavaScript
 - HTML, CSS
+- Mysql
+- node.js
+- php
 
 ### **Web Development**
 - **Frontend**: Passionate about **UI/UX design** and crafting smooth, visually appealing user experiences.
-
+- **Backend**: Passionate about building scalable, secure, and efficient server-side applications.
 ### **Problem-Solving**
 - Active on **LeetCode** and **Codeforces**
 - Proficient in **Prefix Sum**, **Sliding Window**, **Two Pointer**, and **Binary Search**
