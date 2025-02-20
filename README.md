@@ -13,11 +13,10 @@ I enjoy building and exploring new solutions in **software development**. My ult
 - **Python**
 - Java
 - C++
-- JavaScript
+- JavaScript(basic)
 - HTML, CSS
 - Mysql
-- node.js
-- php
+- php(basic)
 
 ### **Web Development**
 - **Frontend**: Passionate about **UI/UX design** and crafting smooth, visually appealing user experiences.
