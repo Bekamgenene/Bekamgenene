@@ -41,7 +41,7 @@ I’m currently expanding my knowledge of **advanced web development** and integ
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=Bekamgenene&color=blue)
-![Repo Views](https://img.shields.io/github/views/Bekamgenene/your-repo-name?style=flat-square)
+
 
 ## 📚 **Certifications**
  - Completed the [Fundamentals of AI](https://www.udacity.com/certificate/e/2bd24ed2-b65c-11ef-adca-8b39ca8d0880) and [Data science](https://www.udacity.com/certificate/e/befeedb0-b1ab-11ef-9657-4bae6444ae46) course under the **5 Million Coders Initiative**.
