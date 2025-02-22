@@ -40,7 +40,7 @@ I enjoy building and exploring new solutions in **software development**. My ult
 I’m currently expanding my knowledge of **advanced web development** and integrating **AI-driven features** into my projects.
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Bekamgenene&color=blue)
 
 ## 📚 **Certifications**
  - Completed the [Fundamentals of AI](https://www.udacity.com/certificate/e/2bd24ed2-b65c-11ef-adca-8b39ca8d0880) and [Data science](https://www.udacity.com/certificate/e/befeedb0-b1ab-11ef-9657-4bae6444ae46) course under the **5 Million Coders Initiative**.
