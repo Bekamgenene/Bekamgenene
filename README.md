@@ -37,7 +37,7 @@ I enjoy building and exploring new solutions in **software development**. My ult
 
 ## 🚀 **Projects**
 
-### [Ethiopian-tourism-web](https://bekamgenene.github.io/ethiopian-tourism-system/)
+
 - A full-stack application built with  and documents.
 - Explore, booking, searching, and organize tour/ place effortlessly.
 
