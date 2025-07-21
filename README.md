@@ -18,7 +18,8 @@ I enjoy building and exploring new solutions in **software development**. My ult
 - **HTML, CSS**
 - **Mysql**
 - **mongoDB**
-- **react js**
+- **react js(not advanced)**
+- **node js(basic)**
 
 
 ### **Web Development**
