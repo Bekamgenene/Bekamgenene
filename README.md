@@ -23,7 +23,7 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/bekam-genene" target="_blank">
+  <a href="www.linkedin.com/in/bekam-genene-7ba8ba30a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/bekamgenene" target="_blank">
