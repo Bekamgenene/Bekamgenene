@@ -45,10 +45,10 @@
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />  
 
 ### ⚙️ Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" />  
+<img src="https://skillicons.dev/icons?i=nodejs,express" />  
 
 ### 🧰 Tools & DevOps  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,jest" />  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />  
 <img src="https://img.shields.io/badge/Nodemailer-0B0D0D?style=for-the-badge&logo=nodemailer&logoColor=white" />
 
 ### 📊 Data & AI  
@@ -67,8 +67,8 @@
 
 ## 🚧 Ongoing Goals  
 
-- ✅ Master **TDD-first backend development** (TypeScript + Express)
-- ✅ Learn **Docker & Deployment** (Railway, Vercel, etc.)
+- 🔜  Master **TDD-first backend development** (TypeScript + Express)
+- 🔜  Learn **Docker & Deployment** (Railway, Vercel, etc.)
 - 🔜 Explore **AI + NLP integration** for skill extraction
 - 🔜 Build a **recommendation system** with real data
 
