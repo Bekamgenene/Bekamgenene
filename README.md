@@ -16,7 +16,7 @@
   - 💼 **ASTU-Alumni Portal** — Node.js + Express + PostgreSQL backend with TDD  
   - 📚 **Knowledge Management System** — React + Tailwind frontend with clean UI/UX
 - 🧠 Exploring **system design**, **Docker**, **TDD**, and **AI integrations**
-- 📫 Email me at: **bekamgenene2021@gmail.com**
+- 📫 Email me at: **bekamgenene@gmail.com**
 
 ---
 
