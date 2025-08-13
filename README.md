@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=00F72E&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Bekam+Genene!;Full-Stack+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=00F72E&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Bekam+Genene!;Frontend+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="right">
@@ -42,10 +42,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp" />  
 
 ### 🌐 Frontend  
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />  
-
-### ⚙️ Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express" />  
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" /> 
 
 ### 🧰 Tools & DevOps  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />  
@@ -60,7 +57,7 @@
 </p>
 
 ### 🗄️ Databases  
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,sqlite" />  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />  
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
 ---
