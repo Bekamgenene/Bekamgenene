@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20FinTech%20%7C%20Full--Stack-0077B5?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Ethiopia%20🇪🇹-2ECC71?style=for-the-badge&logo=map-marker&logoColor=white" />
-  <img src="https://img.shields.io/github/followers/bekamgenene?label=Followers&style=for-the-badge&color=F39C12" />
+  <img src="https://img.shields.io/github/views/bekamgenene?label=Followers&style=for-the-badge&color=F39C12" />
 </p>
 
 ---
