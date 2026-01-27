@@ -120,27 +120,25 @@
 </div>
 
 ---
+## 📊 GitHub Analytics
+
 <div align="center">
 
 ### 📈 Development Overview
 
-<a href="https://github.com/bekamgenene">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=bekamgenene&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight"
-       alt="GitHub Stats" />
-</a>
+<img height="165"
+     src="https://github-readme-stats.vercel.app/api?username=bekamgenene&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=1800"
+     alt="GitHub Stats" />
 
-<a href="https://github.com/bekamgenene">
-  <img height="165"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=bekamgenene&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak" />
-</a>
+<img height="165"
+     src="https://github-readme-streak-stats.herokuapp.com?user=bekamgenene&theme=tokyonight&hide_border=true&cache_seconds=1800"
+     alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🧠 Language & Code Usage
+### 🧠 Top Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekamgenene&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
@@ -149,12 +147,13 @@
 
 ---
 
-## 🔥 Contribution Activity
+### 🔥 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bekamgenene&theme=tokyo-night&hide_border=true&area=true"
        alt="Contribution Graph" />
 </div>
+
 
 ---
 ## 🌐 Connect With Me
