@@ -87,26 +87,43 @@
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 ### 💰 FinTech & AI Solutions
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **[Credit Risk Model](https://github.com/Bekamgenene/Credit-Risk-Probability-Model)** | ML-powered credit default prediction system | `Python` `XGBoost` `Scikit-learn` | ✅ Complete |
-| **[RAG Chatbot](https://github.com/Bekamgenene/rag-complaint-chatbot-for-Financial-Services)** | AI assistant for financial services | `LangChain` `FAISS` `NLP` | ✅ Complete |
-| **[Insurance Analytics](https://github.com/Bekamgenene/Insurance-Risk-Analytics-Predictive-Modeling)** | End-to-end risk prediction pipeline | `Python` `ML` `Statistics` | ✅ Complete |
-| **[Fraud Detection](https://github.com/Bekamgenene/fraud-detection)** | Real-time fraud detection system | `Deep Learning` `Python` | 🚧 In Progress |
-| **[Stock Sentiment](https://github.com/Bekamgenene/Predicting-Price-Moves-with-News-Sentiment)** | Stock price prediction using NLP | `NLP` `Time Series` `Python` | ✅ Complete |
+#### [Credit Risk Probability Model](https://github.com/Bekamgenene/Credit-Risk-Probability-Model)
+ML-powered credit default prediction system using XGBoost and Scikit-learn  
+`Python` `XGBoost` `Scikit-learn` `Pandas` `NumPy`
 
-### 🌐 Web Development
+#### [RAG Complaint Chatbot](https://github.com/Bekamgenene/rag-complaint-chatbot-for-Financial-Services)
+AI assistant for financial services with retrieval-augmented generation  
+`LangChain` `FAISS` `NLP` `Transformers` `Python`
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **[Job Portal](https://github.com/Bekamgenene/jobportal)** | Full-stack recruitment platform | `MERN Stack` `React` `Node.js` | 🚧 In Progress |
-| **[Tourism System](https://github.com/Bekamgenene/ethiopian-tourism-system)** | Interactive tourism platform | `HTML` `CSS` `JavaScript` | ✅ Complete |
+#### [Insurance Risk Analytics](https://github.com/Bekamgenene/Insurance-Risk-Analytics-Predictive-Modeling)
+End-to-end risk prediction pipeline for insurance analytics  
+`Python` `Machine Learning` `Statistics` `Data Visualization`
+
+#### [Stock Sentiment Analysis](https://github.com/Bekamgenene/Predicting-Price-Moves-with-News-Sentiment)
+Stock price prediction using NLP and time series analysis  
+`NLP` `Time Series` `Sentiment Analysis` `Python`
+
+### 🌐 Full-Stack Development
+
+#### [Job Portal](https://github.com/Bekamgenene/jobportal)
+Full-stack recruitment platform with advanced filtering  
+`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
+
+#### [Ethiopian Tourism System](https://github.com/Bekamgenene/ethiopian-tourism-system)
+Interactive tourism platform showcasing Ethiopian destinations  
+`HTML` `CSS` `JavaScript` `Responsive Design`
+
+### 🔬 Machine Learning & Data Science
+
+#### [Fraud Detection System](https://github.com/Bekamgenene/fraud-detection)
+Real-time fraud detection using deep learning  
+`Deep Learning` `TensorFlow` `Python` `Data Processing`
 
 </div>
 
@@ -126,19 +143,11 @@
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bekamgenene&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bekamgenene&custom_title=Contribution%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" />
-</div>
 
 ---
 
@@ -166,9 +175,9 @@
 
 <div align="center">
   
-### 💭 Random Dev Quote  
+### 💭 Random Dev Quote
   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -184,4 +193,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&customColorList=6,11,20"
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&customColorList=6,11,20"/>
