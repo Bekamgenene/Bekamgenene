@@ -1,16 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Bekam%20Genene&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Engineer%20|%20Data%20Scientist&descSize=18&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0:020024,29:090979,66:00d4ff&text=Bekam%20Genene&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Engineer&descSize=18&descAlignY=55"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!+👋;Full-Stack+Developer+%26+AI+Engineer+💻;Building+FinTech+Solutions+with+AI+🚀;Passionate+about+Data+Science+%26+ML+📊;From+Ethiopia+with+Code+🇪🇹❤️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!+👋;Full-Stack+Developer+%26+AI+Engineer+💻;Building+FinTech+Solutions+with+AI+🚀;Passionate+about+Data+Science+%26+ML+📊;From+Ethiopia+with+Code+🇪🇹❤️" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20|%20FinTech%20|%20Full--Stack-blue?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Ethiopia%20🇪🇹-green?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=bekamgenene&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/bekamgenene?label=Followers&style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20FinTech%20%7C%20Full--Stack-0077B5?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Ethiopia%20🇪🇹-2ECC71?style=for-the-badge&logo=map-marker&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/bekamgenene?label=Followers&style=for-the-badge&color=F39C12" />
 </p>
 
 ---
@@ -42,8 +41,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🧠 AI/ML Stack
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -56,6 +55,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/⭐_Credit_Risk_Model-007ACC?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <br/>
-  <sub><b>ML-powered credit default prediction with 92% accuracy</b></sub>
+  <sub><b>ML-powered credit default prediction with 92% accuracy using XGBoost and Scikit-learn</b></sub>
 </p>
 
 <p>
@@ -92,7 +92,7 @@
     <img src="https://img.shields.io/badge/🚀_Job_Portal-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <br/>
-  <sub><b>Modern recruitment platform with real-time features</b></sub>
+  <sub><b>Modern recruitment platform with real-time features using MERN stack</b></sub>
 </p>
 
 <p>
@@ -100,12 +100,12 @@
     <img src="https://img.shields.io/badge/📊_Insurance_Analytics-FF6F00?style=for-the-badge&logo=chart-bar&logoColor=white" />
   </a>
   <br/>
-  <sub><b>End-to-end risk prediction pipeline for insurance sector</b></sub>
+  <sub><b>End-to-end risk prediction pipeline for insurance sector with predictive modeling</b></sub>
 </p>
 
 </div>
 
-### 🎯 **Quick Links**
+### 🔗 **Other Notable Projects**
 <div align="center">
   <a href="https://github.com/Bekamgenene/Predicting-Price-Moves-with-News-Sentiment">
     <img src="https://img.shields.io/badge/📈_Stock_Sentiment-32CD32?style=flat-square&logo=stock&logoColor=white" />
@@ -122,58 +122,59 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
   
 <!-- GitHub Stats Card -->
-<a href="https://github.com/bekamgenene">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bekamgenene&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/bekamgenene">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bekamgenene&theme=radical&hide_border=true" />
-</a>
+<div>
+  <a href="https://github.com/bekamgenene">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bekamgenene&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues" />
+  </a>
+  <a href="https://github.com/bekamgenene">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bekamgenene&theme=radical&hide_border=true&fire=FF7F50&currStreakNum=FF7F50" />
+  </a>
+</div>
 
 <!-- Most Used Languages -->
-<a href="https://github.com/bekamgenene">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekamgenene&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</a>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bekamgenene&theme=react-dark&hide_border=true&area=true&height=300" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bekamgenene&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/bekam-genene-7ba8ba30a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<div style="margin-top: 20px;">
+  <a href="https://github.com/bekamgenene">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekamgenene&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss" />
   </a>
+</div>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bekamgenene&theme=react-dark&hide_border=true&area=true&height=300&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+### 💌 **Let's Build Something Amazing Together!**
+  
+<p>
+  <a href="https://www.linkedin.com/in/bekam-genene-7ba8ba30a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect%20on%20LinkedIn" alt="LinkedIn" />
+  </a>
+</p>
+
+<p>
   <a href="mailto:bekamgenene@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Send%20an%20Email" alt="Gmail" />
   </a>
   <a href="https://github.com/Bekamgenene/my-portfolio-old">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&label=View%20Portfolio" alt="Portfolio" />
   </a>
-</div>
-
----
-
-<div align="center">
-
-### 💡 Developer Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
 
 </div>
 
@@ -181,16 +182,16 @@
 
 <div align="center">
   
-### ⚡ **"Code with Purpose, Build with Impact"** ⚡
-
-**✨ Thanks for visiting my profile! Feel free to explore my projects and reach out for collaboration ✨**
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bekamgenene.bekamgenene" alt="visitors" />
-</p>
-
+### ⚡ **Coding Philosophy**
+  
+```javascript
+while (alive) {
+  eat();
+  sleep();
+  code();
+  innovate();
+}
 </div>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&customColorList=6,11,20" />
-</div>
+🚀 "Transforming Ideas into Intelligent Solutions" 🚀
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bekamgenene&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" /> <img src="https://wakatime.com/badge/user/bekamgenene.svg?style=flat-square" alt="WakaTime" /> </p><p align="center"> <em>💫 Thanks for visiting! Feel free to explore my repositories and connect for collaboration 💫</em> </p></div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&customColorList=0:020024,29:090979,66:00d4ff" /> </div> ```
