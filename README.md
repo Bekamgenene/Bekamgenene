@@ -121,27 +121,21 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
+
+### 📈 **Development Metrics**
+
+<!-- Stats Grid -->
+<div align="center">
+  <a href="https://github.com/bekamgenene">
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=bekamgenene&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues&title_color=7F3FBF&icon_color=7F3FBF&text_color=FFFFFF&custom_title=Bekam's%20GitHub%20Stats" alt="GitHub Stats" />
+  </a>
   
-<!-- GitHub Stats Card -->
-<div>
   <a href="https://github.com/bekamgenene">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bekamgenene&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues" />
+    <img align="center" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bekamgenene&theme=dark&background=0d1117&hide_border=true&ring=7F3FBF&fire=7F3FBF&currStreakLabel=7F3FBF&dates=FFFFFF" alt="GitHub Streak" />
   </a>
-  <a href="https://github.com/bekamgenene">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bekamgenene&theme=radical&hide_border=true&fire=FF7F50&currStreakNum=FF7F50" />
-  </a>
-</div>
-
-<!-- Most Used Languages -->
-<div style="margin-top: 20px;">
-  <a href="https://github.com/bekamgenene">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekamgenene&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss" />
-  </a>
-</div>
-
 </div>
 
 ---
