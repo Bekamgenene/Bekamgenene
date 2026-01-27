@@ -127,11 +127,11 @@
 ### 📈 Development Overview
 
 <img height="165"
-     src="https://github-readme-stats.vercel.app/api?username=bekamgenene&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=1800"
+     src="https://github-readme-stats.vercel.app/api?username=bekamgenene&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
      alt="GitHub Stats" />
 
 <img height="165"
-     src="https://github-readme-streak-stats.herokuapp.com?user=bekamgenene&theme=tokyonight&hide_border=true&cache_seconds=1800"
+     src="https://github-readme-streak-stats-git-main-davidsstreak.vercel.app/?user=bekamgenene&theme=tokyonight&hide_border=true"
      alt="GitHub Streak" />
 
 </div>
@@ -141,7 +141,7 @@
 ### 🧠 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekamgenene&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekamgenene&layout=compact&theme=tokyonight&hide_border=true"
        alt="Top Languages" />
 </div>
 
@@ -153,6 +153,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bekamgenene&theme=tokyo-night&hide_border=true&area=true"
        alt="Contribution Graph" />
 </div>
+
 
 
 ---
