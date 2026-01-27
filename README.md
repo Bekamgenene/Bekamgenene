@@ -171,7 +171,7 @@
   <a href="mailto:bekamgenene@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Send%20an%20Email" alt="Gmail" />
   </a>
-  <a href="https://github.com/Bekamgenene/my-portfolio-old">
+  <a href="https://bekam-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&label=View%20Portfolio" alt="Portfolio" />
   </a>
 </p>
@@ -182,16 +182,3 @@
 
 <div align="center">
   
-### ⚡ **Coding Philosophy**
-  
-```javascript
-while (alive) {
-  eat();
-  sleep();
-  code();
-  innovate();
-}
-</div>
-<div align="center">
-🚀 "Transforming Ideas into Intelligent Solutions" 🚀
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bekamgenene&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" /> <img src="https://wakatime.com/badge/user/bekamgenene.svg?style=flat-square" alt="WakaTime" /> </p><p align="center"> <em>💫 Thanks for visiting! Feel free to explore my repositories and connect for collaboration 💫</em> </p></div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&customColorList=0:020024,29:090979,66:00d4ff" /> </div> ```
