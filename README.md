@@ -120,34 +120,43 @@
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
-### 📈 **Development Metrics**
+### 📈 Development Overview
 
-<!-- Stats Grid -->
-<div align="center">
-  <a href="https://github.com/bekamgenene">
-    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=bekamgenene&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues&title_color=7F3FBF&icon_color=7F3FBF&text_color=FFFFFF&custom_title=Bekam's%20GitHub%20Stats" alt="GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/bekamgenene">
-    <img align="center" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bekamgenene&theme=dark&background=0d1117&hide_border=true&ring=7F3FBF&fire=7F3FBF&currStreakLabel=7F3FBF&dates=FFFFFF" alt="GitHub Streak" />
-  </a>
+<a href="https://github.com/bekamgenene">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=bekamgenene&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight"
+       alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/bekamgenene">
+  <img height="165"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=bekamgenene&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak" />
+</a>
+
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🧠 Language & Code Usage
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bekamgenene&theme=react-dark&hide_border=true&area=true&height=300&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekamgenene&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+       alt="Top Languages" />
 </div>
 
 ---
 
+## 🔥 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bekamgenene&theme=tokyo-night&hide_border=true&area=true"
+       alt="Contribution Graph" />
+</div>
+
+---
 ## 🌐 Connect With Me
 
 <div align="center">
