@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!+👋;Full-Stack+Developer+%26+AI+Engineer+💻;Building+FinTech+Solutions+with+AI+🚀;Passionate+about+Data+Science+%26+ML+📊;From+Ethiopia+with+Code+🇪🇹❤️" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20FinTech%20%7C%20Full--Stack-0077B5?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Ethiopia%20🇪🇹-2ECC71?style=for-the-badge&logo=map-marker&logoColor=white" />
-  <img src="https://img.shields.io/github/views/bekamgenene?label=Followers&style=for-the-badge&color=F39C12" />
-</p>
 
 ---
 
