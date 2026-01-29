@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### Hey there! I'm Bekam 👋
+### Hey there I'm Bekam 👋
 
 🎓 **Computer Science & Software Engineering Student**  
 💼 **Full-Stack Developer** specializing in **AI-powered FinTech solutions**  
