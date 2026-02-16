@@ -126,11 +126,11 @@
 
 ### 📈 Development Overview
 
-<img height="165"
+<img height="155"
      src="https://github-readme-stats.vercel.app/api?username=bekamgenene&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
      alt="GitHub Stats" />
 
-<img height="165"
+<img height="155"
      src="https://github-readme-streak-stats-git-main-davidsstreak.vercel.app/?user=bekamgenene&theme=tokyonight&hide_border=true"
      alt="GitHub Streak" />
 
